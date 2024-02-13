@@ -1,4 +1,3 @@
 # Tic-Tac-Toe
-Building Things for my profile
 
-Update Read Me
+Simple Tic Tac Toe game with a GUI interface

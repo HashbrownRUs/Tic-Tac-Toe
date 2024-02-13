@@ -44,7 +44,6 @@ def check_if_game_over():
 
     return check_rows() or check_horizontals() or check_diagonals()
 
-
 def winner(winner):
     print("Congrats {}".format(winner))
     
